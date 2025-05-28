@@ -1,0 +1,7 @@
+certnode:
+  ics_hash: "0527c_icsh_9ffae1293"
+  vault_capsule: "0527c"
+  tier: 9
+  modules_executed: "1–17226"
+  trust_status: "active"
+  logic_trace: "LSTR_registered"
